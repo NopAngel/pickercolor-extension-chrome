@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name":"Picker Chrome",
+    "version":"1.0",
+    "description":"Esta Extensión permite a ver los colores de varias páginas.",
+    "action":{
+        "default_popup":"index.html"
+    }
+}
